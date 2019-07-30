@@ -29,3 +29,7 @@ Siehe https://studentennetze.de
 ## SNT 2012 (Ilmenau)
 
 ![SNT 2012](snt_2012_ilmenau.png)
+
+## SNT 2007 (Mittweida)
+
+![SNT 2007](snt_2007_mittweida.gif)
