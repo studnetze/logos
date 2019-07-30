@@ -17,3 +17,7 @@ Siehe https://studentennetze.de
 ## SNT 2015 (Freiberg)
 
 ![SNT 2015](snt_2015_freiberg.png)
+
+## SNT 2014 (München)
+
+![SNT 2014](snt_2014_muenchen.png)
