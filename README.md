@@ -1,9 +1,11 @@
-# SNT-Logos
+# Logos der Studentennetztreffen
 
-## SNT 2015 (Freiberg)
-
-![SNT 2015](snt_2015_fg.png)
+Siehe https://studentennetze.de
 
 ## SNT 2017 (Stuttgart)
 
-![SNT 2017](snt_2017_s.png)
+![SNT 2017](snt_2017_stuttgart.png)
+
+## SNT 2015 (Freiberg)
+
+![SNT 2015](snt_2015_freiberg.png)
