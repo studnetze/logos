@@ -21,3 +21,7 @@ Siehe https://studentennetze.de
 ## SNT 2014 (München)
 
 ![SNT 2014](snt_2014_muenchen.png)
+
+## SNT 2013 (Nürnberg)
+
+![SNT 2013](snt_2013_nuernberg.png)
