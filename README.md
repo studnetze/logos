@@ -33,3 +33,7 @@ Siehe https://studentennetze.de
 ## SNT 2007 (Mittweida)
 
 ![SNT 2007](snt_2007_mittweida.gif)
+
+## SNT 2006 (Braunschweig)
+
+![SNT 2006](snt_2006_braunschweig.png)
