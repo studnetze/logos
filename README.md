@@ -2,6 +2,10 @@
 
 Siehe https://studentennetze.de
 
+## SNT 2018 (Prag)
+
+![SNT 2018](snt_2018_prag.png)
+
 ## SNT 2017 (Stuttgart)
 
 ![SNT 2017](snt_2017_stuttgart.png)
