@@ -25,3 +25,7 @@ Siehe https://studentennetze.de
 ## SNT 2013 (Nürnberg)
 
 ![SNT 2013](snt_2013_nuernberg.png)
+
+## SNT 2012 (Ilmenau)
+
+![SNT 2012](snt_2012_ilmenau.png)
